@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-![github-small](https://github.com/user-attachments/assets/0817af68-1e3e-4bb3-a76b-577855c768f5)
+![alt text](https://github.com/user-attachments/assets/0817af68-1e3e-4bb3-a76b-577855c768f5)
 **rayane-belkreir/rayane-belkreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
