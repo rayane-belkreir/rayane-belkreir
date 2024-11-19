@@ -29,7 +29,7 @@ Avec 5 années d'expérience, je me spécialise dans la conception de solutions 
 ## 🚀 Autres Sections
 - 🌱 **Actuellement** : Je travaille sur la virtualisation et le réseau.
 - 🤝 **Besoin d'aide (Alternance)** : Je cherche des opportunités dans le secteur informatique avec comme spécialité l 'administration ou bien de la cybersécurité.
-- 📫 **Me contacter** : [Via mes réseaux](#🔗-liens).
+- 📫 **Me contacter** : rayane.belkreir@laplateforme.io
 
 ---
 
@@ -47,3 +47,8 @@ Avec 5 années d'expérience, je me spécialise dans la conception de solutions 
 | ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | **Adobe Photoshop** |
 
 ---
+
+## Popular Repositories
+
+[![job1](https://github-readme-stats.vercel.app/api/pin/?username=VotreNomDUtilisateur&repo=job1)](https://github.com/rayane-belkreir/job1)
+[![FanSite](https://github-readme-stats.vercel.app/api/pin/?username=VotreNomDUtilisateur&repo=FanSite)](https://github.com/rayane-belkreir/FanSite)
