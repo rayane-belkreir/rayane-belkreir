@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <!--
+![Ceci est un exemple d’image]([https://example.com/bild.jpg](https://cdn.discordapp.com/attachments/1308172969901559919/1308292893647310858/80.png?ex=673d6a34&is=673c18b4&hm=ed72b3c036b4d3b250173e1cb5ed6bf1c99d95ddb0d53db4a929eb30462a99f0&))
 **rayane-belkreir/rayane-belkreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
