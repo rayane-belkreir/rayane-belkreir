@@ -1,7 +1,6 @@
 # 🌟 Bienvenue sur mon Portfolio
 
-<!---->
-![alt text](https://github.com/user-attachments/assets/0817af68-1e3e-4bb3-a76b-577855c768f5)
+![alt text](https://github.com/user-attachments/assets/73152bc8-02fd-4de2-9dcb-0ec6428b1aba)
 
 # Bienvenue ! 👋
 
@@ -12,7 +11,7 @@ Je suis **BELKREIR RAYANE**, passionné par le développement web, l’intellige
 Avec 5 années d'expérience, je me spécialise dans la conception de solutions innovantes et performantes.  
 
 ✨ Mes forces incluent :  
-- Une expertise en HTML/CSS, Mysql, Pyhton, JavaScript, PHP, C++  
+- Une expertise en HTML/CSS, Mysql, Pyhton, JavaScript, PHP, Photoshop  
 - Une curiosité constante pour apprendre et expérimenter de nouvelles technologies.  
 - Une passion pour partager mes connaissances à travers des contributions open source et des projets collaboratifs.
 
@@ -38,11 +37,15 @@ Avec 5 années d'expérience, je me spécialise dans la conception de solutions 
 
 | Langage/Technologie | Icône |
 |----------------------|-------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | **JavaScript** |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | **HTML5** |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | **CSS3** |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330) | **JavaScript** |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **Python** |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | **PHP** |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | **C++** |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | **CSS3** |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | **HTML5** |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | **SQL** |
+| ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | **Adobe Photoshop** |
+
+---
 
 ---
