@@ -48,7 +48,7 @@ Avec 5 années d'expérience, je me spécialise dans la conception de solutions 
 
 ---
 
-## 👾 Mes Repositories
+# 👾 Mes Repositories
 
-[![job1](https://github.com/rayane-belkreir/job1))
-[![FanSite](https://github.com/rayane-belkreir/rayane-belkreir)
+[![job1](https://via.placeholder.com/150)](https://github.com/rayane-belkreir/job1)
+[![FanSite](https://via.placeholder.com/150)](https://github.com/rayane-belkreir/rayane-belkreir)
